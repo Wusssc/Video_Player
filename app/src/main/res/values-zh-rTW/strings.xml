@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APP_11010145</string>
+    <string name="myTitle">學號：11010145</string>
+    <string name="bPlay">撥放</string>
+    <string name="bPause">暫停</string>
+    <string name="bStop">停止</string>
+    <string name="bNote">說明</string>
+    <string name="dialogTitle">貓視頻</string>
+    <string name="dialogMessage">這是一部貓視頻</string>
+</resources>

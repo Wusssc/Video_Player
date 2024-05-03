@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APP_11010145</string>
+    <string name="myTitle">ID：11010145</string>
+    <string name="bPlay">PLAY</string>
+    <string name="bPause">PAUSE</string>
+    <string name="bStop">STOP</string>
+    <string name="bNote">NOTE</string>
+    <string name="dialogTitle">Cat Video</string>
+    <string name="dialogMessage">This is a cat video </string>
+</resources>
